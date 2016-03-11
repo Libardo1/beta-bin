@@ -4,4 +4,4 @@ This repository contains worked examples of comparing different
 temperature thresholds against reported heat waves.
 
 It provides supporting code and other documentation to the document:
-*link* . 
+*add link when document is posted*. 
